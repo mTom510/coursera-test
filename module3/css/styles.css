@@ -1,0 +1,37 @@
+h1 {
+  margin-bottom: 30px;
+}
+
+ .main .container-fluid {
+  background-color: lightgrey;
+  height: 1500px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding-top: 8px;
+}
+
+.navbar {
+  color: white;
+  background-color: #333;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color:lightgrey;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+  color:white;
+}
+
+.navbar-default .navbar-brand {
+  color:lightgrey;
+}
+
+.navbar-default .navbar-brand:hover {
+  color:white;
+}
+
+#bar1 > ul > li > a {
+  text-align: center;
+}
